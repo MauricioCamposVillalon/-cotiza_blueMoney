@@ -1,0 +1,5 @@
+A la fecha: Mon May 02 2022 23:16:57 GMT-0400 (hora estándar de Chile)
+Fue realizada cotización con los siguientes datos:
+Cantidad de pesos a convertir:900
+Convertido a " dolar" da un total de:
+$ 1.057852793906768
